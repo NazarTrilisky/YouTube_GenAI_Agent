@@ -1,0 +1,6 @@
+{
+    "CHAT_GPT_KEY":     "sk-gs...",
+    "CHAT_GPT_URL":     "https://api.openai.com/v1/chat/completions",
+    "MODEL":            "gpt-3.5-turbo",
+    "SYSTEM_PROMPT":    "You are a polite and helpful automated assistant answering user comments in YouTube"
+}
