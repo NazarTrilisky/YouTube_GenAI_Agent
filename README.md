@@ -4,8 +4,8 @@ LLM Agent to auto-comment on YouTube videos
 ## How to Run
 1. `pip install -r requirements.txt`
 2. Fill in all the placeholders in the `conf` folder
-   a. YouTube details: video ID, etc.
-   b. OpenAI details: e.g. access key
+   - YouTube details: video ID, etc.
+   - OpenAI details: e.g. access key
 3. `python main.py`
 
 ## Helpful links
