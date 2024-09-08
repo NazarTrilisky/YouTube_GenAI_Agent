@@ -8,6 +8,8 @@ LLM Agent to auto-comment on YouTube videos
    - OpenAI details: e.g. access key
 3. `python main.py`
 
+The code should pull comments from your video, prompt the LLM, get a completion, and write the completion as a response to the YouTube comments.
+
 ## Helpful links
 These have instructions for generating OpenAI and YouTube access keys
 * https://developers.google.com/youtube/v3/docs/comments
